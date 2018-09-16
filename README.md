@@ -1,0 +1,5 @@
+# Physics with Calculus I Labs (PHY2048L)
+
+No matter how much an instructor loves teaching Physics Labs, grading the lab reports probably won't make anyone's top ten list of favorite things to do. Imagine having large groups submitting reports once a week. It is almost inevitable in these cases to face a trade-off situation between efficiency (understood in how quickly the instructor reviews the reports) and thoroughness (how deep into the details one can go). Is it possible to be both quick and thorough at the same time? One answer to this question seems to be yes if we rely on spreadsheet-based lab reports.
+This way instructors can take advantage of scripts to check for virtually anything and everything provided that all the students used the same lab report template. 
+In this repository, we included a series of lab report templates (.xlsx) compressed in a zip file for the course Physics with Calculus I Lab (PHY2048L) as it is taught at Hillsborough Community College (Dale Mabry Campus), along with some VBA scripts (.bas files).
